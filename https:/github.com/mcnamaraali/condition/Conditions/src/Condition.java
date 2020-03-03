@@ -14,9 +14,9 @@ public class Condition {
 		c = 5;
 		//prefix decrement operator
 		
-		System.out.printf("c before postincrementation: %d %n", c);
-		System.out.printf("c before postincrementation: %d %n", --c);
-		System.out.printf("c before postincrementation: %d %n", c);
+		System.out.printf("c before postincrementation: %d%n", c);
+		System.out.printf("c before postincrementation: %d%n", --c);
+		System.out.printf("c before postincrementation: %d%n", c);
 	
 	}
 
